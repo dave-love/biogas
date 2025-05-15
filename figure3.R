@@ -1,4 +1,4 @@
-#Figure 5
+#Figure 3
 
 #Data from Table 5-2:  Emissions from Agriculture (kt) on pg3 of the document
 #https://www.epa.gov/system/files/documents/2024-04/us-ghg-inventory-2024-chapter-5-agriculture.pdf
