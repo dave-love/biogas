@@ -1,4 +1,4 @@
-#Figure 3
+#Figure S2
 #original source of code: https://asmith.ucdavis.edu/news/cow-power-rising
 
 
